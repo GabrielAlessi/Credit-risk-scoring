@@ -218,7 +218,7 @@ jupyter>=1.0.0
 ## 👨‍💻 Autor
 
 **Gabriel Alessi Naumann**  
-Cientista de Dados Sênior
+Cientista de Dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--alessi--naumann-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-alessi-naumann/)
 [![GitHub](https://img.shields.io/badge/GitHub-GabrielAlessi-181717?style=flat&logo=github)](https://github.com/GabrielAlessi)
